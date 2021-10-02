@@ -1,3 +1,5 @@
 const app = require('./');
 
-app.listen(3333);
+console.log("starting...");
+app.listen(3334);
+console.log("started!");
